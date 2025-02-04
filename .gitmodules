@@ -1,0 +1,3 @@
+[submodule "Demo-sub1"]
+	path = Demo-sub1
+	url = https://github.com/aniketcodesinkit/Core_Trail
